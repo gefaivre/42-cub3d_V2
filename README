@@ -4,7 +4,7 @@
 
 **Cub3D** is a 3D graphical project from 42 programming school inspired by the classic game Wolfenstein 3D. The goal is to render a 3D view from a 2D map using the raycasting technique.
 
-![Cub3D Screenshot](https://github.com/gefaivre/42-cub3d_V2/blob/master/images/image.png?raw=true)
+![Cub3D Screenshot](https://raw.githubusercontent.com/gefaivre/42-cub3d_V2/master/images/image.png)
 ## 🚀 Getting Started
 
 ### Requirements
